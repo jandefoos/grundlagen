@@ -7,7 +7,6 @@ chap/*.aux
 *.bbl 
 *.blg 
 *.log 
-*.pdf 
 *.lof 
 *.lot 
 *.out 
