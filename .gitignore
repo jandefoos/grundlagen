@@ -1,8 +1,6 @@
-# ignore makefile
-makefile 
-
 # Ignore compiled Latex files:
 chap/*.aux 
+*.aux
 *.toc 
 *.bbl 
 *.blg 
@@ -16,4 +14,5 @@ chap/*.aux
 *.glg 
 *.glo 
 *.gls 
-*.ist 
+*.ist
+*.pdf 
