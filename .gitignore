@@ -16,3 +16,5 @@ chap/*.aux
 *.gls 
 *.ist
 *.pdf 
+
+*.swp
